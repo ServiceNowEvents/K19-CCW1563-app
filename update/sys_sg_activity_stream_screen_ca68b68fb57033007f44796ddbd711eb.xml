@@ -4,7 +4,7 @@
         <add_attachment_button>true</add_attachment_button>
         <add_work_note_button>true</add_work_note_button>
         <application_roles/>
-        <available_offline>false</available_offline>
+        <available_offline>true</available_offline>
         <data_item display_value="New Claims">de08368fb57033007f44796ddbd711cb</data_item>
         <description/>
         <fetch_type>background</fetch_type>
@@ -19,14 +19,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-04-18 18:41:51</sys_created_on>
         <sys_id>ca68b68fb57033007f44796ddbd711eb</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Activity Stream</sys_name>
         <sys_package display_value="MobileLab" source="x_snc_mobilelab">8f302172c13433007f44fd069e416946</sys_package>
         <sys_policy/>
         <sys_scope display_value="MobileLab">8f302172c13433007f44fd069e416946</sys_scope>
         <sys_update_name>sys_sg_activity_stream_screen_ca68b68fb57033007f44796ddbd711eb</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-04-18 19:02:35</sys_updated_on>
+        <sys_updated_on>2019-04-18 19:26:28</sys_updated_on>
     </sys_sg_activity_stream_screen>
     <sys_translated_text action="delete_multiple" query="documentkey=ca68b68fb57033007f44796ddbd711eb"/>
 </record_update>
