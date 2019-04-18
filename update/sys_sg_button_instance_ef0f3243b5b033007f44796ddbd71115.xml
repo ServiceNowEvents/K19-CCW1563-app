@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Case location button">de4e3e03b5b033007f44796ddbd7112a</button>
+        <description/>
+        <field_name>location</field_name>
+        <label>Location_field</label>
+        <location>field</location>
+        <name>Location_field</name>
+        <order>2</order>
+        <parent>4268f68fb57033007f44796ddbd71105</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 19:10:54</sys_created_on>
+        <sys_id>ef0f3243b5b033007f44796ddbd71115</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Location_field</sys_name>
+        <sys_package display_value="MobileLab" source="x_snc_mobilelab">8f302172c13433007f44fd069e416946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MobileLab">8f302172c13433007f44fd069e416946</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ef0f3243b5b033007f44796ddbd71115</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 19:10:54</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ef0f3243b5b033007f44796ddbd71115"/>
+</record_update>
