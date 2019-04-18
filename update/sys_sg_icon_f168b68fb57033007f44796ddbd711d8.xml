@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"Font Awesome 5 Free","Value":"f0c5","FontColor":"#E65651","BackgroundColor":"#E65651","Name":"copy"}</icon>
+        <name>copy</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 18:41:50</sys_created_on>
+        <sys_id>f168b68fb57033007f44796ddbd711d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy</sys_name>
+        <sys_package display_value="MobileLab" source="x_snc_mobilelab">8f302172c13433007f44fd069e416946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MobileLab">8f302172c13433007f44fd069e416946</sys_scope>
+        <sys_update_name>sys_sg_icon_f168b68fb57033007f44796ddbd711d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 18:41:50</sys_updated_on>
+    </sys_sg_icon>
+</record_update>

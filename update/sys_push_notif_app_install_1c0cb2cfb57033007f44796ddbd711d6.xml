@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2019-04-18 18:57:34</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 18:57:34</sys_created_on>
+        <sys_id>1c0cb2cfb57033007f44796ddbd711d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CC0CB5D2DFFBE5C5EFF9831DBF96C439264145CCD10E210EB17291B21660183E</sys_name>
+        <sys_package display_value="MobileLab" source="x_snc_mobilelab">8f302172c13433007f44fd069e416946</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application Internal">b7e9f41477382300258da2e2c8106152</sys_push_application_id>
+        <sys_push_platform_id display_value="Apple">20e71f30ff0002009738ffffffffff6b</sys_push_platform_id>
+        <sys_scope display_value="MobileLab">8f302172c13433007f44fd069e416946</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_1c0cb2cfb57033007f44796ddbd711d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 18:57:34</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>CC0CB5D2DFFBE5C5EFF9831DBF96C439264145CCD10E210EB17291B21660183E</token>
+    </sys_push_notif_app_install>
+</record_update>

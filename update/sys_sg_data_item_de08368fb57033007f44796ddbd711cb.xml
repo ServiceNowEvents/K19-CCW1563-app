@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>New Claims</name>
+        <query_condition table="sn_customerservice_case">state=1^ORassigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="state" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="true" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 18:40:14</sys_created_on>
+        <sys_id>de08368fb57033007f44796ddbd711cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Claims</sys_name>
+        <sys_package display_value="MobileLab" source="x_snc_mobilelab">8f302172c13433007f44fd069e416946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MobileLab">8f302172c13433007f44fd069e416946</sys_scope>
+        <sys_update_name>sys_sg_data_item_de08368fb57033007f44796ddbd711cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 18:40:14</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=de08368fb57033007f44796ddbd711cb"/>
+</record_update>
