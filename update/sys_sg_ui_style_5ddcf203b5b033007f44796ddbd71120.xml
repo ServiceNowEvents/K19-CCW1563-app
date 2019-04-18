@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_style">
+    <sys_sg_ui_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="sn_customerservice_case">priority=2^EQ<item endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="2"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <field>priority</field>
+        <name>Case State High</name>
+        <style>{"background_color":"#FE9741","font_color":"#fff"}</style>
+        <sys_class_name>sys_sg_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 19:01:12</sys_created_on>
+        <sys_id>5ddcf203b5b033007f44796ddbd71120</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Case State High</sys_name>
+        <sys_package display_value="MobileLab" source="x_snc_mobilelab">8f302172c13433007f44fd069e416946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MobileLab">8f302172c13433007f44fd069e416946</sys_scope>
+        <sys_update_name>sys_sg_ui_style_5ddcf203b5b033007f44796ddbd71120</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 19:01:12</sys_updated_on>
+        <table>sn_customerservice_case</table>
+    </sys_sg_ui_style>
+</record_update>
