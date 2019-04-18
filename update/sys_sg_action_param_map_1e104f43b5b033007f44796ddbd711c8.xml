@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Assign to me">1c6f7643b5b033007f44796ddbd711ab</button>
+        <item_parameter display_value="assigned_to">dd9fba43b5b033007f44796ddbd71143</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-04-18 19:15:34</sys_created_on>
+        <sys_id>1e104f43b5b033007f44796ddbd711c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dd9fba43b5b033007f44796ddbd71143</sys_name>
+        <sys_package display_value="MobileLab" source="x_snc_mobilelab">8f302172c13433007f44fd069e416946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MobileLab">8f302172c13433007f44fd069e416946</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_1e104f43b5b033007f44796ddbd711c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-04-18 19:15:34</sys_updated_on>
+        <ui_parameter display_value="Assign to me">16ff3e43b5b033007f44796ddbd711a5</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
